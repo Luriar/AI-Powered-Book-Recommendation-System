@@ -104,7 +104,7 @@
 - **[중국어 원본 졸업논문 (PDF)](./docs/graduation_thesis_CN.pdf)** (60페이지)
 - **[한국어 프로젝트 요약](./docs/project_summary_KR.md)** (핵심 내용 정리)
 
-## 🖼 주요 화면
+## 주요 화면
 
 ### 도서 추천 화면
 ![도서 추천](./screenshots/recommendation.png)
