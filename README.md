@@ -1,5 +1,4 @@
 # AI 기반 도서 추천 시스템 (AI-Powered Book Recommendation System)
-# AI 기반 도서 추천 시스템 (AI-Powered Book Recommendation System)
 > Spring Boot + Vue3 + DeepSeek API를 활용한 감정 기반 개인화 도서 추천 서비스
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
