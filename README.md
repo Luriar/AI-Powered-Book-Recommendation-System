@@ -154,13 +154,17 @@
 - 개발자: 윤준호 (Yoon Joonho)
 - 개발 기간: 2024.11 ~ 2025.05 (6개월)
 - 역할: 단독 개발 (기획, 설계, 구현, 테스트)
-- 학교: 북경과학기술대학교 (Beijing University of Science and Technology)
+- 학교: 북경과학기술대학교 (University of Science and Technology Beijing)
 - 전공: 컴퓨터공학과 (Computer Science and Technology)
 
 ## Contact
 
 - Email: joonhoeric01@gmail.com
 - GitHub: [@Luriar](https://github.com/Luriar)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
+  
+## License
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 **※ 본 프로젝트는 학술 목적으로 개발되었으며, 상업적 사용을 목적으로 하지 않습니다.**
