@@ -114,6 +114,7 @@
 
 ### 수집 및 추천 이력
 ![수집 목록](./screenshots/favorites.png)
+![추천 이력](./screenshots/recommended.png)
 
 ## 주요 성과
 
