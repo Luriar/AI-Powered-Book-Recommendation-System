@@ -39,7 +39,7 @@
 - 배경 음악(BGM) 선택 기능 (카페, 도서관, 자연 등)
 - Vue3 기반 반응형 SPA 인터페이스
 
-## 🛠 기술 스택
+## 기술 스택
 
 ### Backend
 - Spring Boot 3.0 - REST API 서버
