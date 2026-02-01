@@ -97,6 +97,7 @@ Backend (Spring Boot)
     └─→ Flask AI Service
           ├─→ DeepSeek API (요약/분석)
           └─→ e5-large-v2 (벡터 임베딩)
+```
 주요 모듈
 
 사용자 관리: 회원가입, 로그인, JWT 인증, 관심사 설정
