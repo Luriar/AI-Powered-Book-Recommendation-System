@@ -9,7 +9,7 @@
 
 **주요 결과:** 논문에 기록된 테스트에서 도서 16권의 AI 요약 배치 처리 시간을 611.7초에서 70.0초로, 추천 요청 전체 응답 시간을 38.015초에서 16.726초로 줄였습니다. 다만 측정 표본과 환경 정보가 제한되어 있으므로 일반적인 서비스 성능이나 정확도 보증값으로 해석하지 않습니다.
 
-[프로젝트 논문](./docs/graduation_thesis_CN.pdf) | [한국어 프로젝트 요약](./docs/project_summary_KR.md) | [추천 화면](./screenshots/recommendation.png)
+**논문 PDF 비공개 (개인정보 보호)** | [한국어 프로젝트 요약](./docs/project_summary_KR.md) | [추천 화면](./screenshots/recommendation.png)
 
 > **공개 범위:** 민감정보를 제거한 실제 개발 원본의 Java/Spring Boot, Vue 3, Python 코드를 backend/와 frontend/에 포함했습니다. API 키와 비밀번호, 원본 데이터 CSV, 외부 콘텐츠 파일은 제외했습니다. 학술용 프로토타입이며 모든 서비스의 재실행을 보증하는 완성 배포본은 아닙니다.
 
@@ -456,7 +456,6 @@ AI-Powered-Book-Recommendation-System/
 │   ├── package.json
 │   └── src/
 ├── docs/
-│   ├── graduation_thesis_CN.pdf
 │   ├── project_summary_KR.md
 │   └── career_evidence_KR.md
 └── screenshots/
@@ -466,7 +465,7 @@ AI-Powered-Book-Recommendation-System/
     └── recommended.png
 ~~~
 
-- **[중국어 졸업논문](./docs/graduation_thesis_CN.pdf):** 3장 시스템 설계, 4장 구현, 5장 테스트 및 부록 코드를 확인할 수 있습니다.
+- **중국어 졸업논문:** 학번 등 식별정보가 포함되어 원문 PDF는 공개하지 않습니다. 검증된 설계, 구현과 실험 결과는 README 및 한국어 근거 문서에 정리했습니다.
 - **[한국어 프로젝트 요약](./docs/project_summary_KR.md):** 기술 개요와 기존 정리 자료입니다. README와 표현 또는 수치가 다를 때는 해당 주장에 연결된 논문 원문과 공개된 코드 근거를 우선합니다.
 - **[GitHub 프로필](https://github.com/Luriar):** 프로젝트 작성자 및 다른 개발 활동을 확인할 수 있습니다.
 
